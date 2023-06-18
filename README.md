@@ -4,7 +4,7 @@ Socius Reddit Clone é um clone do Reddit que permite aos usuários se autentica
 
 ## 📌 Links
 
-Você pode acessar o projeto em produção [aqui](https://socius-reddit-clone-yourusername.vercel.app/).
+Você pode acessar o projeto em produção [aqui](https://socius-gustavohdab.vercel.app/).
 
 <br>
 
