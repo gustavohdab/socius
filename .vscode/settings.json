@@ -1,0 +1,23 @@
+{
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "cSpell.words": [
+    "autosize",
+    "Autosize",
+    "Breaditor",
+    "cmdk",
+    "downvote",
+    "editorjs",
+    "hgetall",
+    "hookform",
+    "hset",
+    "mantine",
+    "reddit",
+    "socius",
+    "Socius",
+    "tanstack",
+    "uploadthing",
+    "upvote",
+    "UPVOTES"
+  ]
+}
